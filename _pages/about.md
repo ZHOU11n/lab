@@ -1,56 +1,31 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Professor Zhou's Lab"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+周伟军，博士，男，浙江鄞县人。日本宇都宫大学应用生物学博士后毕业，浙江大学作物科学研究所教授、博士生导师、求是特聘创新岗，从事油菜遗传育种与种子工程、生理生态与环境调控及安全农产品研究。历任浙江大学作物所副所长、农学系主任、农业试验站副站长。
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+育成了浙农大601（油菜601）、浙农大605（高油605）、浙大619、浙大622、浙大630、浙大649、浙大635等系列优质高产抗病油菜新品种，提出了作物高产生理与配套栽培技术体系；浙大619、浙大622自2009、2014年育成来一直是浙江省油菜主导品种，浙大619获评2016年首届“浙江省十大好品种”，2016年育成的浙大630是迄今全国常规油菜含油量最高(49.21%)的新品种。已授权发明专利16项，发表了170余篇SCI论文与英文著作，个人H指数53，获省部级一、二等科技进步奖5项。
 
-A data-driven personal website
+兼任国际刊物《Acta Physiol Plant》、《Crop Pasture Sci》副主编等4个SCI期刊编委，受邀担任国际SCI刊物《Pesticide Biochem Physiol》客座编辑，欧盟-中国食品农业与生物技术专家组专家、国际向日葵列当联合会理事、第六届国际杂草科学大会协调人，科技部农业领域2020-2035“技术预测工作组”成员、教育部-江苏省现代作物生产协同创新中心PI，中国作物学会理事、中国作物学会油料作物专业委员会理事、中国作物学会栽培专业委员会作物生理学组副组长、中国植保学会杂草学分会理事、全国作物高产创建专家指导团专家、浙江省作物学会理事、浙江省重大科技研发和成果转化粮油专家组专家等。先后在英国、瑞典、德国、日本、美国、澳洲等多家研究机构研修及工作6年，与国内外同行合作密切。
+
+实验室成员
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+欢迎科研能力强、专业知识与英文基础好的农学、生物学及相关专业背景的研究生、博士后与科研人员加盟本实验室，请将简历发至电子信箱(wjzhou@zju.edu.cn)。浙大和我课题组对研究生的试验研究与英文等方面有较高的要求，会在因材施教下，指导、帮助研究生完成学业或提前攻博或出国工作等，使之学有所成并良好发展。
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**指导博士后**
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+Kasirajan Subrahmaniyan 博士后访问教授(2004-2005), R. Raziuddin 博士后访问教授(2006-2007), 宫海军师资博士后(2006-2008), Muhammad Rasheed 博士后访问教授(2007-2008), Zammurad Iqbal Ahmed 博士后访问教授(2008-2009), 许玲博士后(2009-2014), Farmanullah Khan 博士后访问教授(2010-2011), 刘宏波博士后(2010-2013), Amir Zaman Khan 博士后访问教授(2011-2012), 罗新宁博士副教授(2013-2014), Basharat Ali 博士后(2014-2016), Rafaqat Ali Gill 博士后(2015-2017), 杨翀博士后(2016-2019 ), Faisal Islam 博士后(2017- 2019), 王尖博士后(2017-2020), Muhammad Ahsan Farooq 博士后 (2019-),  Faisal Islam 博士后(2019-2021)，Theodore Mulembo Mwamba 博士后(2020- )，Zaid Hassan Ul 博士后(2021- ), Muhammad Fakhir Hannan 博士后(2021- ), 胡露飏企业博士后(2021-), Muhammad Sajid(2022- ), 黄倩博士后(2022- ), 杨素企业博士后(2022- ),徐婉企业博士后(2022- )，张康妮博士后(2022- )。
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**指导博士**
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Edwin J.J. Momoh (1999-2002), 顾宏辉(1999-2004), Melvin S. George (2000-2003, 与陆国权博士合作指导), 唐桂香(2000-2004), 张国庆(2000-2005), 张志军(2001-2004), 李会珍(2001-2004), 林贤青(2002-2005), 宋文坚(2002-2006), 赵宁春(2003-2007, 与程方民教授合作指导), 张文芳(2004-2008), 许玲(2004-2009), 张帆(2005-2009), 金宗来(2005-2010), 朱亚娜(2006-2011, 与蒋立希教授合作指导), 明东风(2006-2012), Muhammad Shahbaz Naeem (2007-2010), 万光龙(2007-2010), 刘宏波(2007-2010), 刘旦(2007-2012), 耿鑫鑫(2008-2013), 田甜(2008-2013), 张振超(2009-2013), 倪西源(2009-2014), Basharat Ali (2011-2014), Rafaqat Ali Gill (2012-2015), 杨翀(2011-2016), 崔鹏(2012-2016), 王尖(2012-2017), 杨素(2012-2017), Muhammad Ahsan Farooq (2013-2016), 李兰(2013-2019), Faisal Islam (2014-2017),  胡露飏(2014-2020 ), Zaid Hassan Ul (2016-2019), 黄倩(2016-2021), Theodore Mulembo Mwamba (2016-2020 ), 章娜(2015硕转博- ), 张康妮(2016硕转博- 2022), Muhammad Fakhir Hannan (2017- 2021), Skhawat Ali (2018- ), Sharafat Ali (2018- ), Ayyaz Ahsan (2019- ), 陈蔚淇(2020-), 孙永祺(2021- ), 李娟娟(2021- ), 万亮(2017-2022, 与岑海燕教授合作指导)，Kaleem Zohaib(2021-), Muhammad Arslan Yousaf(2021-)
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+**指导硕士**
 
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Edwin J.J. Momoh (1996-1999), Melakeselam Leul (1996-1999), Melvin S. George (1996-1999,与陆国权博士合作指导), 宋文坚(1996-2000), 王月星(2000), 吴月燕(2000), 王丹英(1998-200l，与汪自强博士一起指导), 龚月聪(1998-2001), 何云(2003-2006), 何翠娟(2004), 马美蓉(2005), 代飞(2005), 张杨(2005), 万光龙(2005-2007), 连长伟(2006), Najeeb Ullah (2006-2008), 姚和金(2007), 裴曾飞(2007-2010), 郭翔(2008-2011), 吴灵通(2009-2012), 邓香芹(2009-2012), 崔鹏(2009-2012), 李波(2009-2012), 王伟荣(2010), 黄昌蓉(2010-2013), 王兵(2010-2013), Hasitha Kalhari Warusawitharana (2010-2013), 何伯伟(2011), 黄善友(2011), 钱萍(2011-2014), 徐茜(2011-2014), 陶巧静(2011-2014), 黄惠芳(2012), 张尧峰(2012), 马万勇(2014), 张静(2014), 沈华荣(2014), 臧丽丽(2012-2015), 裴鑫(2013-2016,与严力蛟博士合作指导), Theodore Mwamba Mulembo (2013-2016), 吕梦婷(2015-2018), Skhawat Ali (2015-2018), 谢元(2016-2019), 王建蘇(2017- 2020), 龙美娟(2017-2020 ), 何水平(2017), 缪依琳(2018- 2021 ), 洪哲源(2018- ), 马君怡(2019-2022 ), 方柔懿(2019-2022), 何江(2020), 周盈莹(2021- ),石颖(2021), 孙睿(2021)，何荻（2022-),覃童军（2022-),吴晓芬（2022-）
+(https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
